@@ -35,11 +35,3 @@
   &nbsp;&nbsp;&nbsp;
   <img src="assets/mountaincar.gif" width="320" />
 </p>
-
-
-<p align="center">
-  <img src="assets/cartpole.gif" width="320" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="assets/cartpole_notrain.gif" width="320" />
-</p>
-
