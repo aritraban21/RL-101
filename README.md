@@ -11,9 +11,21 @@
 </p>
 
 <p align="center">
+  <img src="assets/HalfCheetah_notrain.gif" width="200" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/HalfCheetah.gif" width="200" />
+</p>
+
+<p align="center">
   <img src="assets/pong_notrain.gif" width="200" />
   &nbsp;&nbsp;&nbsp;
   <img src="assets/pong.gif" width="200" />
+</p>
+
+<p align="center">
+  <img src="assets/BipedalWalker_notrain.gif" width="200" />
+  &nbsp;&nbsp;&nbsp;
+  <img src="assets/BipedalWalker.gif" width="200" />
 </p>
 
 <p align="center">
